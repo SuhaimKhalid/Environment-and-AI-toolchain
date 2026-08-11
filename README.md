@@ -3,4 +3,4 @@
 ## Node Version
 
 $ node -v
-v24.14.0
+24.14.0
